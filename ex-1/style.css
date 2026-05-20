@@ -1,1 +1,16 @@
 /* start coding here */
+
+/* Style สำหรับ Input */
+input {
+    height: 50px;
+    width: 240px;
+    border-radius: 3px;
+  }
+  
+  /* Style สำหรับ Button */
+  button {
+    width: 120px;
+    height: 36px;
+    border: 1px solid lightgrey;
+    background-color: khaki;
+  }
